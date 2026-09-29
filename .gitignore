@@ -1,0 +1,8 @@
+# Large zip archives (exceeds GitHub 100MB limit)
+pizza_4k_frames.zip
+*.zip
+
+# Dependencies & temporary files
+node_modules/
+.DS_Store
+Thumbs.db
